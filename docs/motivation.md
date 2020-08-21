@@ -20,7 +20,7 @@ However, blackboards and whiteboards are no longer timely, and they are often re
 
 **Decouple the lecturer's presentation interface from the projection window for the students:** The main reason to decouple the presentation interface is not the student's distraction due to control-buttons and flyout-menus, but it is the need to zoom in and out while writing with a digital pen. Most people seem to have a larger handwriting on a graphics tablet than on a sheet of paper. To avoid filling the complete board with just a few lines of text, it is necessary to increase the zoom factor while writing. The students, however, should only see the complete board without changes. 
 
-<img src="/doc/assets/images/ProjectionWindow.jpg" width="350">
+<img src="/documentation/assets/images/ProjectionWindow.jpg" width="350">
 
 
 
@@ -28,4 +28,4 @@ However, blackboards and whiteboards are no longer timely, and they are often re
 
 In addition, it is a waste of time to prepare the layout of the text for preparation, erase it, and reproduce it with the students. It is much easier to pre-record the handwritten text and replay sections of it during the lecture - whenever it is needed. 
 
-<img src="/doc/assets/images/ReplayMode.jpg" width="350">
+<img src="/documentation/assets/images/ReplayMode.jpg" width="350">

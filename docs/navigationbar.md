@@ -5,14 +5,14 @@ nav_order: 2
 ---
 
 # Buttons in the navigation bar
-![images](/doc/assets/images/LeftBar.png)
+![images](/documentation/assets/images/LeftBar.png)
 
 
 ## **Projection window**
 
 The projection window is the window which is observable by the students. There are three buttons in the navigation panel on the left to control it. 
 
-<img src="/doc/assets/images/Projection.jpg" width="150" style="float: right;">
+<img src="/documentation/assets/images/Projection.jpg" width="150" style="float: right;">
 
 
 - The button at the top opens and closes the projection window.
@@ -31,7 +31,7 @@ Note that Zoom does not change the aspect ratio of your shared window. I would s
 
 ## Full screen modes
 
-<img src="/doc/assets/images/FullScreen.jpg" width="150" style="float: right;">
+<img src="/documentation/assets/images/FullScreen.jpg" width="150" style="float: right;">
 Both, the user interface and the projection window can be switched to fullscreen mode. For the projection window, press the "Fullscreen" button to start or stop the fullscreen mode. For the user interface, tap the button with the diagonal arrow. To exit the fullscreen mode, tap the middle one of your three window buttons.
 
 
@@ -43,7 +43,7 @@ Both, the user interface and the projection window can be switched to fullscreen
 
 The app has three control modes that can be selected by pressing the (D,E,R) buttons on the left toolbar.
 
-<img src="/doc/assets/images/Modes.jpg" width="150" style="float: right;">
+<img src="/documentation/assets/images/Modes.jpg" width="150" style="float: right;">
 
 - The **DIRECT (D)** mode provides the normal live-lecture experience. The students see directly what you write on the tablet or laptop.
 - The **EDIT (E)** mode is intended for the preparation process. It allows you to write the text for a lecture and to group the text in blocks. You can split, join, and re-order the text blocks. 

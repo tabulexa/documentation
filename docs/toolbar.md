@@ -6,11 +6,11 @@ nav_order: 3
 
 # **Buttons in the toolbar**
 
-![images](/doc/assets/images/topbar.jpg)
+![images](/documentation/assets/images/topbar.jpg)
 
 The top toolbar provides editing tools for the board. It is only visible in the local interface of the lecturer. 
 
-<img src="/doc/assets/images/buttons.jpg" width="200" style="float: right;">
+<img src="/documentation/assets/images/buttons.jpg" width="200" style="float: right;">
 
 - There are three different types of pens. The **"Pen"** button provides a normal round tip, the **"Pencil"** is pressure sensitive and you can tilt it, and the **"Calligraphic pen"** has an elliptical tip. You can change the side ratio and angle of the ellipse in the settings section.
 - The buttons “New Page”, “Delete Page” and “Clear Page” create, remove and clear the current page

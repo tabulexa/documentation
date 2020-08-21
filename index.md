@@ -25,8 +25,8 @@ last_modified_date: 2020-04-27T17:54:08+0000
 
 | Projection window | Start screen |
 | :------------------------------------------------------------ | :---------------------------------------------------------- |
-| <img src="/doc/assets/images/ProjectionWindow.png" width="400"> | <img src="/doc/assets/images/archive.png" width="400"> |
+| <img src="/documentation/assets/images/ProjectionWindow.png" width="400"> | <img src="/documentation/assets/images/archive.png" width="400"> |
 
 | **Dark and light theme** | **Document archive** |
-| <img src="/doc/assets/images/themes.jpg" width="400">       | <img src="/doc/assets/images/StartScreen.png" width="400">     |
+| <img src="/documentation/assets/images/themes.jpg" width="400">       | <img src="/documentation/assets/images/StartScreen.png" width="400">     |
 
