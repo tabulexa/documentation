@@ -8,7 +8,7 @@ last_modified_date: 2020-04-27T17:54:08+0000
 ---
 
 <center>
-<img src="/assets/images/SplashScreen2.png" width="700">
+<img src="/doc/assets/images/SplashScreen2.png" width="700">
 </center>
 
 *Tabulexa is a digital handwriting app for teaching and presentation. The app was written for the Microsoft Surface family but any similar laptop should work as well. It requires*
@@ -25,8 +25,8 @@ last_modified_date: 2020-04-27T17:54:08+0000
 
 | Projection window | Start screen |
 | :------------------------------------------------------------ | :---------------------------------------------------------- |
-| <img src="/assets/images/ProjectionWindow.png" width="400"> | <img src="/assets/images/archive.png" width="400"> |
+| <img src="/doc/assets/images/ProjectionWindow.png" width="400"> | <img src="/doc/assets/images/archive.png" width="400"> |
 
 | **Dark and light theme** | **Document archive** |
-| <img src="/assets/images/themes.jpg" width="400">       | <img src="/assets/images/StartScreen.png" width="400">     |
+| <img src="/doc/assets/images/themes.jpg" width="400">       | <img src="/doc/assets/images/StartScreen.png" width="400">     |
 
