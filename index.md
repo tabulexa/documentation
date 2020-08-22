@@ -25,7 +25,7 @@ last_modified_date: 2020-04-27T17:54:08+0000
 
 | Projection window | Document archive |
 | :------------------------------------------------------------ | :---------------------------------------------------------- |
-| [<img src="/documentation/assets/images/ProjectionWindow.png" width="270">](/documentation/assets/images/ProjectionWindow.png) | [<img src="/documentation/assets/images/archive.png" width="270">](/documentation/assets/images/archive.png) |
+| [ <center><img src="/documentation/assets/images/ProjectionWindow.png" width="270"/> </center>](/documentation/assets/images/ProjectionWindow.png) | [<center><img src="/documentation/assets/images/archive.png" width="270"/></center>](/documentation/assets/images/archive.png) |
 | **Dark and light theme** | **Start screen** |
-| [<img src="/documentation/assets/images/themes.jpg" width="270">](/documentation/assets/images/themes.jpg) | [<img src="/documentation/assets/images/StartScreen.png" width="270">](/documentation/assets/images/StartScreen.png)     |
+| [ <center><img src="/documentation/assets/images/themes.jpg" width="270"/></center>](/documentation/assets/images/themes.jpg) | [<center><img src="/documentation/assets/images/StartScreen.png" width="270"/></center>](/documentation/assets/images/StartScreen.png)     |
 
