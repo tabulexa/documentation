@@ -23,10 +23,10 @@ last_modified_date: 2020-04-27T17:54:08+0000
 
 **Screen shots**
 
-| Projection window | Start screen |
+| Projection window | Document archive |
 | :------------------------------------------------------------ | :---------------------------------------------------------- |
 | <img src="/documentation/assets/images/ProjectionWindow.png" width="400"> | <img src="/documentation/assets/images/archive.png" width="400"> |
 
-| **Dark and light theme** | **Document archive** |
+| **Dark and light theme** | **Start screen** |
 | <img src="/documentation/assets/images/themes.jpg" width="400">       | <img src="/documentation/assets/images/StartScreen.png" width="400">     |
 
