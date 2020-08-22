@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Privacy policy and Disclaimer
+title: <span style="color:black">Privacy policy and Disclaimer</span>
 nav_order: 4
 ---
 

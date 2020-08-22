@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Help - Navigation bar 
+title: <span style="color:black">Help - Navigation bar </span>
 nav_order: 2
 ---
 
@@ -8,7 +8,7 @@ nav_order: 2
 ![images](/documentation/assets/images/LeftBar.png)
 
 
-## **Projection window**
+## Projection window
 
 The projection window is the window which is observable by the students. There are three buttons in the navigation panel on the left to control it. 
 

@@ -1,12 +1,14 @@
 ---
 layout: default
-title: FAQ
+title: <span style="color:black">FAQ</span>
 nav_order: 5
 ---
 
-# **Frequently asked questions**
+# Frequently asked questions
+
 
 This page will grow once the app is properly released:
+
 
 ### What is the current status of the app?
 

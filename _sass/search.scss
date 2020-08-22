@@ -9,6 +9,7 @@
   height: $sp-10;
   padding: $sp-2;
   transition: padding linear #{$transition-duration / 2};
+  background-color: $white;
 
   @include mq(md) {
     position: relative !important;

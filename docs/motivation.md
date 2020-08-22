@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Motivation
+title: <span style="color:black">Motivation</span>
 nav_order: 2
 ---
 

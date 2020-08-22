@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Help - Toolbar
+title:  <span style="color:black">Help - Toolbar </span> 
 nav_order: 3
 ---
 
-# **Buttons in the toolbar**
+# Buttons in the toolbar
 
 ![images](/documentation/assets/images/topbar.jpg)
 
