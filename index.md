@@ -8,8 +8,9 @@ last_modified_date: 2020-04-27T17:54:08+0000
 ---
 
 <center>
-<img src="/documentation/assets/images/SplashScreen2.png" width="700">
+<img src="/documentation/assets/images/SplashScreen3.png" width="700">
 </center>
+
 
 *Tabulexa is a digital handwriting app for teaching and presentation. The app was written for the Microsoft Surface family but any similar laptop should work as well. It requires*
 
