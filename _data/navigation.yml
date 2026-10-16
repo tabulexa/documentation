@@ -1,0 +1,9 @@
+main:
+  - title: "Motivation"
+    url: /
+  - title: "Usage"
+    url: /usage.html
+  - title: "FAQ"
+    url: /faq.html
+  - title: "Privacy"
+    url: /privacy.html

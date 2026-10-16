@@ -1,0 +1,21 @@
+/* Tabulexa Board footer */
+.page__footer {
+    background-color: #24262B !important;
+    color: #FFFFFF;
+}
+
+/* Footer text and links */
+.page__footer,
+.page__footer a,
+.page__footer-copyright {
+    color: #FFFFFF !important;
+}
+
+/* Remove the blue background from footer elements */
+.page__footer-copyright {
+    background: transparent !important;
+}
+/* Hide the Follow and Feed section */
+.page__footer-follow {
+    display: none !important;
+}

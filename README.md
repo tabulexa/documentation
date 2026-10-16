@@ -1,40 +1,31 @@
-# Tabulexa Board Documentation
+# Tabulexa Board documentation — Minimal Mistakes
 
-Ready-to-deploy Jekyll **Just the Docs** site for:
+Four-page documentation site for https://github.com/tabulexa/documentation.
 
-- Repository: https://github.com/tabulexa/documentation
-- Website: https://tabulexa.github.io/documentation/
-- Privacy policy: https://tabulexa.github.io/documentation/privacy/
+## Local preview (Windows)
 
-## Publish
+This site uses **Minimal Mistakes** and Jekyll. Ruby **3.3** is recommended for local development. Your existing Ruby 4.0 installation may have compatibility issues with older Jekyll plugins.
 
-1. Create a **public** GitHub repository named `documentation` under `tabulexa` (or open your existing repository).
-2. Upload the **contents** of this ZIP to the repository root (do not upload just the ZIP or an enclosing folder). Include the `.github/workflows/pages.yml` workflow.
-3. Commit the files to the `main` branch.
-4. Go to **Settings → Pages → Build and deployment → Source → GitHub Actions**.
-5. Open the **Actions** tab and allow the `Deploy documentation to GitHub Pages` workflow to finish.
-6. Open https://tabulexa.github.io/documentation/ and verify each page and image.
+```powershell
+bundle install
+bundle exec jekyll serve --baseurl ""
+```
 
-If the GitHub account/org or repo name differs, edit `url`, `baseurl` and `aux_links` in `_config.yml` before publishing.
+Open http://localhost:4000/.
+
+## Publishing
+
+Upload the **contents** of this folder to the root of `tabulexa/documentation` on branch `main` (including `.github/workflows/pages.yml`). In repository **Settings → Pages**, choose **GitHub Actions**. The workflow builds Jekyll and publishes to https://tabulexa.github.io/documentation/.
 
 ## Editing
 
-- Change site title and colour scheme: `_config.yml` and `_sass/color_schemes/tabulexa.scss`.
-- Change page text: `*.md` files.
-- Change illustrations: `assets/images/`.
-- Sidebar navigation follows the `nav_order` metadata in each page.
+- `index.md` — Motivation
+- `usage.md` — Usage
+- `faq.md` — FAQ
+- `privacy.md` — Privacy
+- `_data/navigation.yml` — navigation menu
+- `_config.yml` — theme and site settings
 
-## Local preview (optional)
+This project uses Minimal Mistakes remotely; copyright and licence remain with the respective theme authors. See https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE.
 
-With Ruby and Bundler installed:
-
-```sh
-bundle install
-bundle exec jekyll serve
-```
-
-Then open `http://localhost:4000/documentation/`.
-
-## Disclaimer
-
-Screenshots in `assets/images` are promotional illustrations, not guaranteed identical to the running application. Review the privacy statement and support contact against the final published build.
+Review the privacy policy and product claims against the actual release before publishing.

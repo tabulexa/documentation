@@ -1,18 +1,39 @@
 title: Tabulexa Board
-email: ''
-description: Documentation for Tabulexa Board — interactive PowerPoint and digital ink teaching.
-url: https://tabulexa.github.io
-baseurl: /documentation
-theme: just-the-docs
-color_scheme: tabulexa
-search_enabled: true
-heading_anchors: true
-permalink: pretty
-aux_links:
-  "GitHub repository": https://github.com/tabulexa/documentation
-aux_links_new_tab: true
-footer_content: 'Tabulexa Board · MuXappDev · <a href="/documentation/privacy/">Privacy policy</a>'
+title_separator: "|"
+name: MuXappDev
+description: "Digital whiteboard and PowerPoint teaching documentation."
+url: "https://tabulexa.github.io"
+baseurl: "/documentation"
+repository: "tabulexa/documentation"
+locale: en-GB
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "air"
+search: true
+markdown: kramdown
+kramdown:
+  input: GFM
+plugins:
+  - jekyll-remote-theme
+  - jekyll-include-cache
+  - jekyll-sitemap
+  - jekyll-seo-tag
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: single
+      author_profile: false
+      classes: wide
+footer:
+  links: []
 exclude:
   - README.md
   - Gemfile
   - Gemfile.lock
+  - LICENSE_THEME.md
+  - vendor
+  - .github
+atom_feed:
+  hide: true
+logo: "/assets/images/tabulexa-logo.png"
+show_title: false

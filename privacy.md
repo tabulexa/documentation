@@ -1,28 +1,27 @@
 ---
-layout: default
-title: Privacy policy
-nav_order: 7
-permalink: /privacy/
+layout: single
+author_profile: false
+classes: wide
+title: Privacy
+permalink: /privacy.html
 ---
-# Privacy Policy — Tabulexa Board
 
-**Last updated: 16 October 2026**  
-**Developer: MuXappDev**
+*Last updated: 16 October 2026*
 
-## Information and data collection
+### Personal information
 
-The developer does not intentionally collect, transmit, sell or share users' personal information through Tabulexa Board. The application does not include developer-operated advertising or analytics services.
+Tabulexa Board does not intentionally collect or share personal information with the developer. The application does not include developer-operated advertising services.
 
-## Local processing
+Microsoft may collect technical information through Windows or the Microsoft Store. For details, see the [Microsoft Privacy Statement](https://privacy.microsoft.com/privacystatement).
 
-PowerPoint presentations, handwritten annotations, recent file references and app settings are processed and stored locally on the user's device. Temporary rendering files may be created during PowerPoint import and presentation display.
+### Files and settings
 
-## Microsoft services
+Presentations, handwriting and application settings are processed and stored locally on your computer. Tabulexa Board may create temporary files when opening or displaying PowerPoint presentations.
 
-Microsoft may separately collect installation statistics, diagnostics, crash reports or other technical information through Windows and Microsoft Store services. See the [Microsoft Privacy Statement](https://privacy.microsoft.com/privacystatement) for Microsoft's practices.
+### Contact
 
-## Changes and contact
+For privacy questions, use the developer's contact details provided in the Microsoft Store listing.
 
-This policy may be updated if functionality or data practices change. For privacy questions, contact MuXappDev using the support contact supplied in the Microsoft Store listing.
+### Disclaimer
 
-*The developer should review this statement against the actual published build and provide a functioning support contact before publication.*
+Tabulexa Board is provided on an "as-is" basis, to the extent permitted by law. The developer cannot guarantee uninterrupted operation or compatibility with every device, driver or PowerPoint installation.
