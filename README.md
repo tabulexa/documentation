@@ -1,4 +1,4 @@
-# Tabulexa Board documentation — Minimal Mistakes
+# Tabulexa Board documentation
 
 Four-page documentation site for https://github.com/tabulexa/documentation.
 
