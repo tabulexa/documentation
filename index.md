@@ -1,32 +1,32 @@
 ---
-layout: default
-title: <span style="color:black">Home</span>
+layout: home
+title: Home
 nav_order: 1
-description: "Tabulexa is a digital handwriting app for teaching and presentation. It requires Windows 10, a digital pen and touch screen or other input device."
-permalink: /
-last_modified_date: 2020-04-27T17:54:08+0000
+description: Tabulexa Board documentation home
 ---
 
-<center>
-<img src="/documentation/assets/images/SplashScreen3.png" width="700">
-</center>
+# Tabulexa Board
+{: .fs-9 }
 
-
-*Tabulexa is a digital handwriting app for teaching and presentation. The app was written for the Microsoft Surface family but any similar laptop should work as well. It requires*
-
-- *Windows 10 (version 1903 or later)*
-- *Touch sensitive display*
-- *Digital pen (or other digital writing device)*
-
+Interactive teaching, naturally.
 {: .fs-6 .fw-300 }
 
-[Download from App Store](https://www.microsoft.com/store/apps/9MXZC8VJJ5W4){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Get started](getting-started/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 } [Read the user guide](guide/){: .btn .fs-5 .mb-4 .mb-md-0 }
 
-**Screen shots**
+![Illustration of the Tabulexa Board startup dashboard]({{ '/assets/images/start-page-illustration.png' | relative_url }})
 
-| Projection window | Document archive |
-| :------------------------------------------------------------ | :---------------------------------------------------------- |
-| [ <center><img src="/documentation/assets/images/ProjectionWindow.png" width="270"/> </center>](/documentation/assets/images/ProjectionWindow.png) | [<center><img src="/documentation/assets/images/archive.png" width="270"/></center>](/documentation/assets/images/archive.png) |
-| **Dark and light theme** | **Start screen** |
-| [ <center><img src="/documentation/assets/images/themes.jpg" width="270"/></center>](/documentation/assets/images/themes.jpg) | [<center><img src="/documentation/assets/images/StartScreen.png" width="270"/></center>](/documentation/assets/images/StartScreen.png)     |
+Tabulexa Board combines a lecturer's interactive ink board with a **separate student projector window**, support for **PowerPoint PPTX presentations**, and local annotation saving.
 
+## Documentation
+
+| Topic | What you'll find |
+|:--|:--|
+| [Getting started](getting-started/) | Create a board or open a PowerPoint file |
+| [User guide](guide/) | Writing, zoom, dual-screen projection, saving and settings |
+| [Projector & ink](projector/) | Independent lecturer view, live writing and pointer |
+| [PowerPoint & replay](powerpoint/) | Imported slides and optional animation replay |
+| [Troubleshooting](troubleshooting/) | Common questions and solutions |
+| [Privacy policy](privacy/) | Local data and Microsoft services |
+| [Release notes](releases/) | Version 3.0.1.0 |
+
+> **Note:** Screenshots and promotional illustrations are illustrative. The actual UI may differ by version, settings and Windows theme.

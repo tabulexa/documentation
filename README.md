@@ -1,22 +1,40 @@
-<p align="right">
-    <a href="https://badge.fury.io/rb/just-the-docs"><img src="https://badge.fury.io/rb/just-the-docs.svg" alt="Gem version"></a> <a href="https://github.com/pmarsceill/just-the-docs/actions?query=workflow%3A%22Master+branch+CI%22"><img src="https://github.com/pmarsceill/just-the-docs/workflows/Master%20branch%20CI/badge.svg" alt="Build status"></a>
-</p>
-<br>
+# Tabulexa Board Documentation
 
-<p align="center">
-    <h1 align="center">Tabulexa</h1>
-    <p align="center">A digital handwriting app for teaching and presentation. The app was written for Windows 10 and for devices of the Microsoft Surface family, but any similar input device with a digital pen should work as well.</p>
-    <p align="center"><strong><a href="https://www.microsoft.com/store/apps/9MXZC8VJJ5W4">Download</a></strong></p>
-    <br> 
-</p>
+Ready-to-deploy Jekyll **Just the Docs** site for:
 
+- Repository: https://github.com/tabulexa/documentation
+- Website: https://tabulexa.github.io/documentation/
+- Privacy policy: https://tabulexa.github.io/documentation/privacy/
 
-![T](https://tabulexa.github.io/documentation/assets/images/Overview.png)
+## Publish
 
+1. Create a **public** GitHub repository named `documentation` under `tabulexa` (or open your existing repository).
+2. Upload the **contents** of this ZIP to the repository root (do not upload just the ZIP or an enclosing folder). Include the `.github/workflows/pages.yml` workflow.
+3. Commit the files to the `main` branch.
+4. Go to **Settings → Pages → Build and deployment → Source → GitHub Actions**.
+5. Open the **Actions** tab and allow the `Deploy documentation to GitHub Pages` workflow to finish.
+6. Open https://tabulexa.github.io/documentation/ and verify each page and image.
 
+If the GitHub account/org or repo name differs, edit `url`, `baseurl` and `aux_links` in `_config.yml` before publishing.
 
-## Usage
+## Editing
 
-[View the documentation](https://tabulexa.github.io/documentation/) for usage information.
+- Change site title and colour scheme: `_config.yml` and `_sass/color_schemes/tabulexa.scss`.
+- Change page text: `*.md` files.
+- Change illustrations: `assets/images/`.
+- Sidebar navigation follows the `nav_order` metadata in each page.
 
+## Local preview (optional)
 
+With Ruby and Bundler installed:
+
+```sh
+bundle install
+bundle exec jekyll serve
+```
+
+Then open `http://localhost:4000/documentation/`.
+
+## Disclaimer
+
+Screenshots in `assets/images` are promotional illustrations, not guaranteed identical to the running application. Review the privacy statement and support contact against the final published build.
